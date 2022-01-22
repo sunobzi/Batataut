@@ -15,7 +15,7 @@ Use the script as follows:
 
 ```
   1) Run and Restart: python batataut.py --spread --output <output-path> --restart
-  3) Cleanup:         python batataut.py --delete --output <output-path> 
+  2) Cleanup:         python batataut.py --delete --output <output-path> 
 
 ```
  
